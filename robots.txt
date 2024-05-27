@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urylvero.github.io/a/sitemap.html
+Sitemap: https://urylvero.github.io/b/sitemap.html
+Sitemap: https://urylvero.github.io/c/sitemap.html
+Sitemap: https://urylvero.github.io/d/sitemap.html
